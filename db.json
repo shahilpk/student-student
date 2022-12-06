@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "name": "shahil",
+      "email": "shahilpk321@gmail.com",
+      "mobile": 70345365876,
+      "city": "KERALA"
+    },
+    {
+      "id": 8,
+      "name": "arun1",
+      "email": "arun@gmail",
+      "mobile": 785755577575,
+      "city": "delhi"
+    }
+  ],
+  "signup": [
+    {
+      "name": "shail",
+      "email": "sha@gmail.com",
+      "mobile": 234343443,
+      "password": "lmdlsd",
+      "id": 1
+    },
+    {
+      "name": "jack",
+      "email": "shahilpk321@gmail.com",
+      "mobile": 7034539325,
+      "password": "ABCD",
+      "id": 2
+    },
+    {
+      "name": "shahil",
+      "email": "sha@gmail.com",
+      "mobile": 12345,
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "arun",
+      "email": "arun@gmail.com",
+      "mobile": 4666,
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "jhon",
+      "email": "jhon@gmail.com",
+      "mobile": 7034539324,
+      "password": "12345",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

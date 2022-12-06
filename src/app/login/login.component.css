@@ -1,0 +1,27 @@
+*{
+    font-family: cursive;
+}
+
+.card{
+    width: 550px;
+    height: 440px;
+    color: rgb(32, 16, 16);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 31px 40px;
+   border: none;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+    background-color: rgba(146, 249, 251, 0.4);
+    opacity: 10;
+}
+.log{
+    
+    background-image: url('https://cdn.wallpapersafari.com/18/85/udTL2N.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}

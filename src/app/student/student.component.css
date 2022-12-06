@@ -1,0 +1,19 @@
+.table{
+    
+    border: 1px;
+    border: solid;
+    background-color: aqua;
+    border: blue;
+    
+    border-radius: 10px;
+    
+}
+.tab{
+    background-image: url(https://images.creativemarket.com/0.1.0/ps/1293633/1170/772/m1/fpnw/wm0/book-.jpg?1463838647&s=f1cba9d970010a1e56596b9e70b677cd);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   width: 100%;
+   height: 85vh;
+   
+}
